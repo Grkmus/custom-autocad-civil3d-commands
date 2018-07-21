@@ -1,0 +1,8 @@
+C:\Users\Grkm\Documents\Visual Studio 2017\Projects\CustomAutocadCivil3dCommands\CustomAutocadCivil3dCommands\obj\Debug\CustomAutocadCivil3dCommands.Properties.Resources.resources
+C:\Users\Grkm\Documents\Visual Studio 2017\Projects\CustomAutocadCivil3dCommands\CustomAutocadCivil3dCommands\obj\Debug\CustomAutocadCivil3dCommands.csproj.GenerateResource.Cache
+C:\Users\Grkm\Documents\Visual Studio 2017\Projects\CustomAutocadCivil3dCommands\CustomAutocadCivil3dCommands\bin\Debug\CustomAutocadCivil3dCommands.dll.config
+C:\Users\Grkm\Documents\Visual Studio 2017\Projects\CustomAutocadCivil3dCommands\CustomAutocadCivil3dCommands\bin\Debug\CustomAutocadCivil3dCommands.dll
+C:\Users\Grkm\Documents\Visual Studio 2017\Projects\CustomAutocadCivil3dCommands\CustomAutocadCivil3dCommands\bin\Debug\CustomAutocadCivil3dCommands.pdb
+C:\Users\Grkm\Documents\Visual Studio 2017\Projects\CustomAutocadCivil3dCommands\CustomAutocadCivil3dCommands\obj\Debug\CustomAutocadCivil3dCommands.dll
+C:\Users\Grkm\Documents\Visual Studio 2017\Projects\CustomAutocadCivil3dCommands\CustomAutocadCivil3dCommands\obj\Debug\CustomAutocadCivil3dCommands.pdb
+C:\Users\Grkm\Documents\Visual Studio 2017\Projects\CustomAutocadCivil3dCommands\CustomAutocadCivil3dCommands\obj\Debug\CustomAutocadCivil3dCommands.csprojResolveAssemblyReference.cache
